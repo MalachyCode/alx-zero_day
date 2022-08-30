@@ -1,1 +1,1 @@
-I made a new directory, 0x03-git
+I made a new directory, I named it 0x03-git
